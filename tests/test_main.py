@@ -11,6 +11,6 @@ def test_read_root():
 
 
 def test_greet():
-    response = client.get("/greet/Alex")
+    response = client.get("/greet?name=Alex")  # <--- Con query param
     assert response.status_code == 200
     assert response.json() == {"message": "Hello, Alex!"}

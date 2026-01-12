@@ -1,6 +1,6 @@
 # Practica 3
 
-## Samuel Patiño Lucumí - 2226503
+## Samuel Patiño Lucumí
 
 # FastAPI CI/CD Example
 

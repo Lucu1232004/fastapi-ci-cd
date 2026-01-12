@@ -1,10 +1,5 @@
-# Practica 3
-
-## Samuel Patiño Lucumí
-
-# FastAPI CI/CD Example
-
-Este es un proyecto de ejemplo que implementa una API con [FastAPI](https://fastapi.tiangolo.com/) y un pipeline CI/CD completo usando **GitHub Actions**, **Docker** y despliegue en **Render**.
+# # FastAPI Backend con CI/CD Pipeline
+Este proyecto demuestra un backend FastAPI listo para producción con pruebas automatizadas, Dockerización e implementación de CI/CD.
 
 ## Estructura
 
